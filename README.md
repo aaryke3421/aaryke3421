@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarya Keshari</h1>
-<div align="center"> <img src="http://raw.githubusercontent.com/aaryke3421/aaryke3421/main/aarya-banner.jpg"> </div>
+<div align="center"> <img src="http://raw.githubusercontent.com/aaryke3421/aaryke3421/main/aaryabanner.jpg"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryke3421&label=Profile%20views&color=0e75b6&style=flat" alt="aaryke3421" /> </p>
